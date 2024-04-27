@@ -1,0 +1,12 @@
+{
+  "name" : "Hadoop theme",
+  "description" : "This theme includes element styles with icons for the hadoop project.",
+  "elements" : [
+    {
+      "tag" : "Hadoop - MapReduce Project",
+      "stroke" : "#693cc5",
+      "color" : "#693cc5",
+      "icon" : "https://miro.medium.com/v2/resize:fit:1400/1*1gx5I6RbBoJieKjT-mzRzA.png"
+    }
+  ]
+}
